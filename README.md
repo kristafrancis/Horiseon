@@ -1,14 +1,18 @@
 # Horiseon
 
-##Purpose
-An websit to help you with online markting 
+## Purpose
 
-##Built With
-*HTML
-*CSS
+An website to help you with online markting
 
-##Website
-file:///Users/kristafrancis/urban-octo-telegram/Develop/index.html
+## Built With
 
-##Contribution
+- HTML
+- CSS
+
+## Website
+
+[deployed](https://kristafrancis.github.io/Horiseon/)
+
+## Contribution
+
 Made with ❤️️ by Horiseon
